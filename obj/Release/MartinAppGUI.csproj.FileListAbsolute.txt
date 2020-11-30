@@ -1,0 +1,31 @@
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Release\MartinAppGUI.exe.config
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Release\MartinAppGUI.exe
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Release\MartinAppGUI.pdb
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Release\EPPlus.dll
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Release\EPPlus.xml
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.csprojAssemblyReference.cache
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.csproj.ResolveComReference.cache
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.DataHandlerApp.resources
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.Properties.Resources.resources
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.csproj.GenerateResource.cache
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.csproj.CoreCompileInputs.cache
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.csproj.CopyComplete
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.exe
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.pdb
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Release\System.Windows.Forms.Ribbon.dll
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Release\BlueButton.dll
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\bin\Release\MartinAppGUI.exe.config
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\bin\Release\MartinAppGUI.exe
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\bin\Release\MartinAppGUI.pdb
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\bin\Release\EPPlus.dll
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\bin\Release\System.Windows.Forms.Ribbon.dll
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\bin\Release\EPPlus.xml
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.csprojAssemblyReference.cache
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.csproj.ResolveComReference.cache
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.DataHandlerApp.resources
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.Properties.Resources.resources
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.csproj.GenerateResource.cache
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.csproj.CoreCompileInputs.cache
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.csproj.CopyComplete
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.exe
+C:\Users\krisz\Documents\Martin\MartinAppGUI\MartinAppGUI\obj\Release\MartinAppGUI.pdb

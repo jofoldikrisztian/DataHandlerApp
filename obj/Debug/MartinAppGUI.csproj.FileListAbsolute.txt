@@ -1,0 +1,16 @@
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Debug\MartinAppGUI.exe.config
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Debug\MartinAppGUI.exe
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Debug\MartinAppGUI.pdb
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Debug\MartinAppGUI.DataHandlerApp.resources
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Debug\MartinAppGUI.Properties.Resources.resources
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Debug\MartinAppGUI.csproj.GenerateResource.cache
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Debug\MartinAppGUI.csproj.CoreCompileInputs.cache
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Debug\MartinAppGUI.exe
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Debug\MartinAppGUI.pdb
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Debug\EPPlus.dll
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Debug\EPPlus.xml
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Debug\MartinAppGUI.csproj.CopyComplete
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Debug\MartinAppGUI.csprojAssemblyReference.cache
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\obj\Debug\MartinAppGUI.csproj.ResolveComReference.cache
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\krisz\Documents\New Folder\MartinAppGUI\MartinAppGUI\bin\Debug\BlueButton.dll
